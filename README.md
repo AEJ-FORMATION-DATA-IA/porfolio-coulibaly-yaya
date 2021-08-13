@@ -13,10 +13,10 @@
 
 *git* pour en italic
 
---- les 3 tiret creer une ligne horizontal
+--- 
 
 ... html
 <html></html>
-...  les 3 point pour insere du code
+...
 
 [le titre du lien](http://google.fr) le lien entre parenthese
