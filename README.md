@@ -15,7 +15,7 @@
 
 --- les 3 tiret creer une ligne horizontal
 
-...html
+... html
 <html></html>
 ...  les 3 point pour insere du code
 
